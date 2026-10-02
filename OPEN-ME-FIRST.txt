@@ -1,0 +1,7 @@
+RELAY demo — easiest way to view
+
+1. Double-click index.html in this folder.
+2. It is a self-contained demo — no npm, no server, no installation required.
+3. If macOS asks what app to use, choose Safari or Chrome.
+
+For the React/Vite source, see package.json and src/.
